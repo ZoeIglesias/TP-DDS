@@ -1,4 +1,4 @@
-# Sistema de Gestín de Heladeras Solidarias
+# Sistema de Gestión de Heladeras Solidarias
 
 Proyecto académico desarrollado para mejorar el acceso alimentario en personas en situación vulnerable mediante heladeras comunitarias.
 
